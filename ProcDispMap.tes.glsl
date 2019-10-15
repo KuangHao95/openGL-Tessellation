@@ -2,10 +2,6 @@
 // TESSELLATION EVALUATION SHADER (TES)
 //============================================================================
 // STUDENT NAME: Kuang Hao
-// MATRIC NO.  : A0191488N
-// NUSNET ID   : E0338132
-// COMMENTS TO GRADER:
-//
 //============================================================================
 
 #version 430 core
